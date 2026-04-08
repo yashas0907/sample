@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 i am currently doing git operations
 this is the new line
+ok here is one more line
+Lets see the changes there
+THANK U!
 =======
 
